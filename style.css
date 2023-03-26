@@ -1,0 +1,60 @@
+body{
+    padding: 3%;
+}
+.meuNome {
+    font-family:'Rubik Iso', cursive;
+    color: #ffffff;
+    text-align: center;
+  }
+  #sobre-mim {
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: -1px;
+    font-size: 20px;
+    left: 15px;
+    padding: 10%;
+    top: 55px;
+    position: relative;
+  }
+  .minhas-habilidades {
+    color: #fcfcfc;
+    font-family: 'Press Start 2P', cursive;
+  }
+  .comunicação {
+  font-size: 16px;
+  } 
+  .Trabalhoequipe {
+    font-size: 16px;
+  } 
+  .Proatividade {
+    font-size: 16px;
+  }
+  .Criatividade {
+    font-size: 16px;
+  }
+  body {
+    background-color: #00afb9;
+  }
+  #minha-foto {
+    float: left;
+    height: 280px;
+    padding: 10px;
+    background-color: #ffffff;
+   }
+   .image-container {
+    height: 300px;
+   }
+
+ul li:nth-child(odd) {
+    background-color: #fcfcfc;
+}
+
+
+
+
+
+
+
+
+
+ 
